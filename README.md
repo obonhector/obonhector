@@ -5,6 +5,8 @@ I'm Héctor Obón, a passionate tech entrepreneur driven by curiosity and innova
 
 ---
 ## My Certifications
+## My Certifications
+
 [![IBM | Advanced Deep Learning Specialist | IBM](https://img.shields.io/badge/IBM%20%7C%20Advanced%20Deep%20Learning%20Specialist%20%7C%20IBM-0052CC?style=for-the-badge&logo=ibm&logoColor=white)](https://www.credly.com/badges/9a71ff72-f53f-4ca7-9d6e-91d4c4e0bbb6)  
 [![IBM | AI Agents Using RAG and LangChain | IBM](https://img.shields.io/badge/IBM%20%7C%20AI%20Agents%20Using%20RAG%20and%20LangChain%20%7C%20IBM-0052CC?style=for-the-badge&logo=ibm&logoColor=white)](https://www.credly.com/badges/9018fc8b-7a65-403e-8dbf-12df2d31b899)  
 [![IBM | AI Capstone Project with Deep Learning | IBM](https://img.shields.io/badge/IBM%20%7C%20AI%20Capstone%20Project%20with%20Deep%20Learning%20%7C%20IBM-0052CC?style=for-the-badge&logo=ibm&logoColor=white)](https://www.credly.com/badges/6b9021ef-6441-4e16-8185-829b1c0738b9)  
@@ -22,6 +24,10 @@ I'm Héctor Obón, a passionate tech entrepreneur driven by curiosity and innova
 [![IBM | Introduction to Neural Networks with PyTorch | IBM](https://img.shields.io/badge/IBM%20%7C%20Introduction%20to%20Neural%20Networks%20with%20PyTorch%20%7C%20IBM-0052CC?style=for-the-badge&logo=ibm&logoColor=white)](https://www.credly.com/badges/d8b1c566-d7bd-4b30-a961-9058edffaac8)  
 [![IBM | Python Project for AI and Application Development | IBM](https://img.shields.io/badge/IBM%20%7C%20Python%20Project%20for%20AI%20and%20Application%20Development%20%7C%20IBM-0052CC?style=for-the-badge&logo=ibm&logoColor=white)](https://www.credly.com/badges/26dfcaeb-068d-4ab3-8266-42bd6f6f08c9)  
 [![IBM | TCP/IP on z/OS Essentials - Level 1 | IBM](https://img.shields.io/badge/IBM%20%7C%20TCP/IP%20on%20z%2FOS%20Essentials%20-%20Level%201%20%7C%20IBM-0052CC?style=for-the-badge&logo=ibm&logoColor=white)](https://www.credly.com/badges/28306cc1-bf75-465e-a08a-aad5f7ffb521)
+
+[![Jim Sullivan | Scrum Master Certification | Jim Sullivan](https://img.shields.io/badge/Jim%20Sullivan%20%7C%20Scrum%20Master%20Certification%20%7C%20Jim%20Sullivan-FF6600?style=for-the-badge)](https://coursera.org/verify/specialization/YH0KDRE8X3LD)  
+[![IBM | IBM Generative AI Engineering | IBM](https://img.shields.io/badge/IBM%20%7C%20IBM%20Generative%20AI%20Engineering%20%7C%20IBM-0052CC?style=for-the-badge&logo=ibm&logoColor=white)](https://coursera.org/verify/professional-cert/OJ5FMR4GDXU1)
+
 
 
 # 💻 Tech Stack:
