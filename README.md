@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### 📚 My Certifications:
+
+![IBM](https://img.shields.io/badge/IBM-AI%20Engineering%20Professional-blue?logo=ibm&style=flat-square)
+![Coursera](https://img.shields.io/badge/Coursera-Deep%20Learning%20Specialization-0056D2?logo=coursera&style=flat-square)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-Professional%20Cloud%20Developer-4285F4?logo=google-cloud&style=flat-square)
+![AWS](https://img.shields.io/badge/AWS-Certified%20Solutions%20Architect-FF9900?logo=amazonaws&style=flat-square)
