@@ -1,6 +1,6 @@
 # Hi, I'm Hector Obon 👋
 
-## Intro & About Me
+## About Me
 Hello! I'm Hector Obon, a passionate developer and AI researcher specializing in deep learning. I love solving complex problems and continuously learning about cutting-edge technologies.
 
 ---
@@ -31,15 +31,35 @@ Hello! I'm Hector Obon, a passionate developer and AI researcher specializing in
 
 ## Current Projects
 
-- **Project 1:** Brief description of the project.
-- **Project 2:** Brief description of the project.
-- **Project 3:** Brief description of the project.
-
+- **Project 1:** SmartHealth
+- **Project 2:** My Personal Brand
 ---
 
 ## Future Goals
 
-I aim to expand my knowledge in emerging areas of AI, such as reinforcement learning, explainable AI, and ethical technology. The future is full of promise!
+### Certifications & Studies
+My goal is to continuously expand my knowledge and skills by obtaining the following certifications:
+
+- **AWS ML Specialty**
+- **Microsoft AI 102**
+- **Google ML Engineer**
+- **TensorFlow Developer**
+- **AWS Solutions Architect Associate**
+- **AWS Developer Associate**
+- **Microsoft AZ 204**
+- **Google Cloud Developer**
+- **Oracle Java SE**
+- **Microsoft AZ 900**
+- **Microsoft DP 900**
+- **Google Data Engineer**
+- **Microsoft DP 203**
+- **Databricks Data Engineer**
+- **AWS Architect Pro**
+- **Google Architect Pro**
+- **CKA**
+
+### Professional Development
+I aim to work for an ambitious company that provides opportunities for growth in both technical skills and soft skills such as leadership. This experience will prepare me for my ultimate goal of creating innovative startups with a global impact.
 
 ---
 
