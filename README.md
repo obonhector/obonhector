@@ -1,7 +1,8 @@
 # Hi, I'm Hector Obon 👋
 
 ## About Me
-Hello! I'm Hector Obon, a passionate developer and AI researcher specializing in deep learning. I love solving complex problems and continuously learning about cutting-edge technologies.
+I'm Hector Obon, a passionate young tech entrepreneur with an insatiable curiosity and a drive to innovate. I'm taking my first steps on a journey to create startups that harness the power of cutting-edge technologies whether it's AI, blockchain or full stack development. My commitment to continuous learning is reflected in my pursuit of various industry certifications and hands-on projects.
+While I may not yet have built something exceptional, some people like Sam Altman, Mark Zuckerberg and Paul Graham inspire me every day. I believe that with persistence and focus on both technical mastery and leadership skills, even the smallest steps can lead to significant and global impact. I'm excited to share my jorney and learnings with a growing community of fellow tech enthusiasts.
 
 ---
 ## My Certifications
