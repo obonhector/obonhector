@@ -1,7 +1,7 @@
 # Hi, I'm Hector Obon 👋
 
 ## About Me
-I'm Héctor Obón, a passionate tech entrepreneur driven by curiosity and innovation. I'm starting my journey to build startups that leverage cutting-edge technologies like AI, blockchain, and full stack development. Inspired by visionaries such as Sam Altman, Mark Zuckerberg, and Paul Graham, I believe that persistent growth in both technical and leadership skills can create global impact. I'm excited to share my journey and learn with a vibrant tech community.
+I'm Héctor Obón, a passionate tech entrepreneur driven by curiosity and innovation. I'm starting my journey to build startups that leverage cutting-edge technologies like AI, blockchain, and full stack development. Inspired by Sam Altman, Mark Zuckerberg, and Paul Graham.
 
 ---
 ## My Certifications
