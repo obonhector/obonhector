@@ -5,7 +5,6 @@ I'm Héctor Obón, a passionate tech entrepreneur driven by curiosity and innova
 
 ---
 ## My Certifications
-## My Certifications
 
 [![IBM | Advanced Deep Learning Specialist | IBM](https://img.shields.io/badge/IBM%20%7C%20Advanced%20Deep%20Learning%20Specialist%20%7C%20IBM-0052CC?style=for-the-badge&logo=ibm&logoColor=white)](https://www.credly.com/badges/9a71ff72-f53f-4ca7-9d6e-91d4c4e0bbb6)  
 [![IBM | AI Agents Using RAG and LangChain | IBM](https://img.shields.io/badge/IBM%20%7C%20AI%20Agents%20Using%20RAG%20and%20LangChain%20%7C%20IBM-0052CC?style=for-the-badge&logo=ibm&logoColor=white)](https://www.credly.com/badges/9018fc8b-7a65-403e-8dbf-12df2d31b899)  
@@ -13,18 +12,16 @@ I'm Héctor Obón, a passionate tech entrepreneur driven by curiosity and innova
 [![IBM | Data Analysis with Python | IBM](https://img.shields.io/badge/IBM%20%7C%20Data%20Analysis%20with%20Python%20%7C%20IBM-0052CC?style=for-the-badge&logo=ibm&logoColor=white)](https://www.credly.com/badges/302954a0-0d46-4bb2-a7db-97a9078130b4)  
 [![IBM | Deep Learning Essentials with Keras | IBM](https://img.shields.io/badge/IBM%20%7C%20Deep%20Learning%20Essentials%20with%20Keras%20%7C%20IBM-0052CC?style=for-the-badge&logo=ibm&logoColor=white)](https://www.credly.com/badges/64e7debd-1c4b-4f88-8dee-89daace9e42d)  
 [![IBM | Generative AI Advanced Fine-Tuning for LLMs | IBM](https://img.shields.io/badge/IBM%20%7C%20Generative%20AI%20Advanced%20Fine--Tuning%20for%20LLMs%20%7C%20IBM-0052CC?style=for-the-badge&logo=ibm&logoColor=white)](https://www.credly.com/badges/79519a91-d14b-44c8-888f-9581aca7dfe3)  
-[![IBM | Generative AI and LLMs: Architecture and Data Preparation | IBM](https://img.shields.io/badge/IBM%20%7C%20Generative%20AI%20and%20LLMs%3A%20Architecture%20and%20Data%20Preparation%20%7C%20IBM-0052CC?style=for-the-badge&logo=ibm&logoColor=white)](https://www.credly.com/badges/b41cee89-edd1-4909-9733-60a01464d04c)  
+[![IBM | Generative AI and LLMs: Architecture and Data Preparation | IBM](https://img.shields.io/badge/IBM%20%7C%20Generative%20AI%20and%20LLMs%3A%20Architecture%20and%20Data%20Preparation%20%7C%20IBM-0052CC?style=for-the-badge&logo=ibm&logoColor=white)](https://www.credly.com/badges/b41cee89-edd1-4909-9733-60a01464d04c) 
 [![IBM | Generative AI Applications Specialist | IBM](https://img.shields.io/badge/IBM%20%7C%20Generative%20AI%20Applications%20Specialist%20%7C%20IBM-0052CC?style=for-the-badge&logo=ibm&logoColor=white)](https://www.credly.com/badges/d0c070e8-dcbe-4b56-b18d-8449a3d25697)  
 [![IBM | Generative AI Engineering with Transformers & LLMs | IBM](https://img.shields.io/badge/IBM%20%7C%20Generative%20AI%20Engineering%20with%20Transformers%20%26%20LLMs%20%7C%20IBM-0052CC?style=for-the-badge&logo=ibm&logoColor=white)](https://www.credly.com/badges/693d4b49-c117-454d-a244-94536d3b2bfd)  
 [![IBM | Generative AI Language Modeling with Transformers | IBM](https://img.shields.io/badge/IBM%20%7C%20Generative%20AI%20Language%20Modeling%20with%20Transformers%20%7C%20IBM-0052CC?style=for-the-badge&logo=ibm&logoColor=white)](https://www.credly.com/badges/89cd0671-1870-41b6-b09e-991b14a0ede3)
-
 [![IBM | IBM AI Developer Professional Certificate | IBM](https://img.shields.io/badge/IBM%20%7C%20IBM%20AI%20Developer%20Professional%20Certificate%20%7C%20IBM-0052CC?style=for-the-badge&logo=ibm&logoColor=white)](https://www.credly.com/badges/6a076a12-361f-48ee-9f7b-ac5ecace8309)  
 [![IBM | IBM AI Engineering Professional Certificate (V3) | IBM](https://img.shields.io/badge/IBM%20%7C%20IBM%20AI%20Engineering%20Professional%20Certificate%20%28V3%29%20%7C%20IBM-0052CC?style=for-the-badge&logo=ibm&logoColor=white)](https://www.credly.com/badges/4b9622e7-7471-421d-bd10-5e52b74b9afc)  
 [![IBM | Introduction to HTML, CSS, & JavaScript | IBM](https://img.shields.io/badge/IBM%20%7C%20Introduction%20to%20HTML%2C%20CSS%2C%20%26%20JavaScript%20%7C%20IBM-0052CC?style=for-the-badge&logo=ibm&logoColor=white)](https://www.credly.com/badges/93c2b1bd-9018-4425-8d1f-d4e6fb3648db)  
 [![IBM | Introduction to Neural Networks with PyTorch | IBM](https://img.shields.io/badge/IBM%20%7C%20Introduction%20to%20Neural%20Networks%20with%20PyTorch%20%7C%20IBM-0052CC?style=for-the-badge&logo=ibm&logoColor=white)](https://www.credly.com/badges/d8b1c566-d7bd-4b30-a961-9058edffaac8)  
 [![IBM | Python Project for AI and Application Development | IBM](https://img.shields.io/badge/IBM%20%7C%20Python%20Project%20for%20AI%20and%20Application%20Development%20%7C%20IBM-0052CC?style=for-the-badge&logo=ibm&logoColor=white)](https://www.credly.com/badges/26dfcaeb-068d-4ab3-8266-42bd6f6f08c9)  
 [![IBM | TCP/IP on z/OS Essentials - Level 1 | IBM](https://img.shields.io/badge/IBM%20%7C%20TCP/IP%20on%20z%2FOS%20Essentials%20-%20Level%201%20%7C%20IBM-0052CC?style=for-the-badge&logo=ibm&logoColor=white)](https://www.credly.com/badges/28306cc1-bf75-465e-a08a-aad5f7ffb521)
-
 [![Jim Sullivan | Scrum Master Certification | Jim Sullivan](https://img.shields.io/badge/Jim%20Sullivan%20%7C%20Scrum%20Master%20Certification%20%7C%20Jim%20Sullivan-FF6600?style=for-the-badge)](https://coursera.org/verify/specialization/YH0KDRE8X3LD)  
 [![IBM | IBM Generative AI Engineering | IBM](https://img.shields.io/badge/IBM%20%7C%20IBM%20Generative%20AI%20Engineering%20%7C%20IBM-0052CC?style=for-the-badge&logo=ibm&logoColor=white)](https://coursera.org/verify/professional-cert/OJ5FMR4GDXU1)
 
