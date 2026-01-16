@@ -41,18 +41,9 @@ I am building a specialized "Hardware" of certifications to validate my expertis
 
 ---
 
-## 🚀 Current Research & Projects
-- **AlphaGen IA:** LLM-based agent for sentiment analysis of Mandarin-language financial news and its impact on ADRs.
-- **RiskQuant:** A Python framework for stress-testing portfolios using Monte Carlo simulations (FRM-based logic).
-- **The Global Monk Brand:** Scaling a high-end personal brand for 10M+ followers focused on elite performance and financial mastery.
-
----
-
 ## 📊 Strategic Objectives
-1. **Mastery:** Complete the Triple Crown (CFA, FRM, CAIA) before 2027.
-2. **Impact:** Secure a Long-Term Internship at a Tier-1 Global Advisory firm (Rothschild/Lazard/Evercore).
-3. **Innovation:** Develop proprietary AI-driven HFT algorithms for emerging markets.
-
+1. **Mastery:** Complete the Triple Crown (CFA, FRM, CAIA) by 2028.
+2. **Impact:** Secure a Long-Term Internship at a Tier-1 Global Advisory firm.
 ---
 
 ## ⚡ Connect with the Strategy
@@ -61,5 +52,3 @@ I am building a specialized "Hardware" of certifications to validate my expertis
 <a target="_blank" href="https://x.com/obonhector"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" /></a>
 <a target="_blank" href="https://www.instagram.com/obonhector/"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a>
 </p>
-
-*"Victory loves preparation."*
