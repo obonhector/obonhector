@@ -23,7 +23,6 @@ I am building a specialized "Hardware" of certifications to validate my expertis
 [![CAIA | Chartered Alternative Investment Analyst](https://img.shields.io/badge/CAIA-Candidate-blue?style=for-the-badge&logo=caia&logoColor=white)](https://caia.org/)
 
 ### AI & Engineering (IBM Specialized)
-*(Keep your best existing IBM badges here, focusing on Deep Learning and LLMs)*
 [![IBM | Advanced Deep Learning Specialist](https://img.shields.io/badge/IBM-Deep_Learning_Specialist-0052CC?style=for-the-badge&logo=ibm&logoColor=white)](https://www.credly.com/badges/9a71ff72-f53f-4ca7-9d6e-91d4c4e0bbb6)
 [![IBM | AI Agents Using RAG and LangChain](https://img.shields.io/badge/IBM-AI_Agents_RAG-0052CC?style=for-the-badge&logo=ibm&logoColor=white)](https://www.credly.com/badges/9018fc8b-7a65-403e-8dbf-12df2d31b899)
 [![IBM | Generative AI Advanced Fine-Tuning](https://img.shields.io/badge/IBM-Gen_AI_Fine--Tuning-0052CC?style=for-the-badge&logo=ibm&logoColor=white)](https://www.credly.com/badges/79519a91-d14b-44c8-888f-9581aca7dfe3)
