@@ -7,10 +7,9 @@ I am a high-performance strategist focused on the convergence of **Artificial In
 ---
 
 ## 🏛️ Professional Roadmap & Vision
-- **Targeting:** Elite Investment Banking (M&A / Global Advisory) & High-Frequency Trading.
-- **Academics:** Pursuing a Degree in Business/Finance with a 9.7/10.0 GPA (Top 1%).
-- **Linguistic Alpha:** Mastering **Mandarin Chinese** and **Hindi** to bridge Western capital with Eastern emerging markets.
-- **Philosophy:** Stoicism, Deep Work, and "The Monk Mode" for elite-level execution.
+- **Targeting:** Elite Investment Banking (M&A / Global Advisory).
+- **Academics:** Pursuing a Degree in Business/Finance.
+- **Linguistic:** Mastering **Mandarin Chinese** and **Hindi** to bridge Western capital with Eastern emerging markets.
 
 ---
 
